@@ -108,9 +108,9 @@
 
 - [YouTube](https://play.google.com/store/apps/details?id=com.google.android.youtube)
 
-- [TikTok](https://play.google.com/store/apps/details?id=com.ss.android.ugc.trill)
-
 - [抖音](https://www.douyin.com/)
+
+- [小红书](https://www.xiaohongshu.com/download)
 
 ## 无分组
 
@@ -240,7 +240,7 @@
 
 - [搜狗输入法](https://pinyin.cn/)
 
-- [汉王扫描王](https://www.hanvonscanner.com/)、[夸克扫描王](https://scan.quark.cn/)
+- [汉王扫描王](https://www.hanvonscanner.com/)、~~[夸克扫描王](https://scan.quark.cn/)~~
 
 - [LocalSend](https://github.com/localsend/localsend/releases)
 
@@ -248,9 +248,11 @@
 
 - [【LSPosed Module】哔哩漫游](https://github.com/yujincheng08/BiliRoaming/releases)
 
-- [【LSPosed Module】应用变量](https://github.com/appenv/appenv.github.io/releases)
-
 - [LiveBoot](https://play.google.com/store/apps/details?id=eu.chainfire.liveboot)
+
+- [【LSPosed Module】Dyoo](https://t.me/dyoo_public)
+
+- [【LSPosed Module】XChat](Telegram Channel)
 
 ## Network
 
