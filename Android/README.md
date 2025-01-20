@@ -192,9 +192,19 @@
 
 - ~~[国家医保服务平台](https://app.gjzwfw.gov.cn/fwmhapp/downloadApp/android.html)~~
 
-## 无分组
+## 临时
 
 - [Electrodoc Pro](https://play.google.com/store/apps/details?id=it.android.demi.elettronica.pro)
+
+- [nRF Connect](https://play.google.com/store/apps/details?id=no.nordicsemi.android.mcp)
+
+- [华为应用市场](https://consumer.huawei.com/cn/mobileservices/appgallery/)
+
+- 会员中心
+
+- 智慧生活
+
+- [声级计](https://play.google.com/store/apps/details?id=com.ktwapps.soundmeter)
 
 ## 外卖
 
@@ -206,7 +216,7 @@
 
 - [Google Play Store](https://www.apkmirror.com/apk/google-inc/google-play-store/)
 
-- ~~[华为应用市场](https://consumer.huawei.com/cn/mobileservices/appgallery/)~~
+- 应用商店
 
 - [酷安](https://www.coolapk.com/apk/com.coolapk.market)
 
@@ -345,7 +355,3 @@
 - ~~[前程无忧 51job](http://app.51job.com/index.html)~~
 
 - ~~[58同城](https://down.58.com/home.html)~~
-
-## 无分组
-
-- [nRF Connect](https://play.google.com/store/apps/details?id=no.nordicsemi.android.mcp)
