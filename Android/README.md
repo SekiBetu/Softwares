@@ -252,7 +252,9 @@
 
 - [【LSPosed Module】Dyoo](https://t.me/dyoo_public)
 
-- [【LSPosed Module】XChat](Telegram Channel)
+- [【LSPosed Module】XChat](https://github.com/Xposed-Modules-Repo/com.xchat/releases)
+
+- [【LSPosed Module】TeleVip](https://t.me/t_l0_e)
 
 ## Network
 
